@@ -3,7 +3,6 @@
 //  SwiftLogger
 //
 //  Created by AnkyHe on 3/4/15.
-//  Copyright (c) 2015 Gery Studio. All rights reserved.
 //
 
 import Foundation
